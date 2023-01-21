@@ -1,0 +1,15 @@
+C:\Users\MSI-NB\source\repos\Acm\Acm\bin\Debug\net6.0\Acm.exe
+C:\Users\MSI-NB\source\repos\Acm\Acm\bin\Debug\net6.0\Acm.deps.json
+C:\Users\MSI-NB\source\repos\Acm\Acm\bin\Debug\net6.0\Acm.runtimeconfig.json
+C:\Users\MSI-NB\source\repos\Acm\Acm\bin\Debug\net6.0\Acm.dll
+C:\Users\MSI-NB\source\repos\Acm\Acm\bin\Debug\net6.0\Acm.pdb
+C:\Users\MSI-NB\source\repos\Acm\Acm\obj\Debug\net6.0\Acm.csproj.AssemblyReference.cache
+C:\Users\MSI-NB\source\repos\Acm\Acm\obj\Debug\net6.0\Acm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\source\repos\Acm\Acm\obj\Debug\net6.0\Acm.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\source\repos\Acm\Acm\obj\Debug\net6.0\Acm.AssemblyInfo.cs
+C:\Users\MSI-NB\source\repos\Acm\Acm\obj\Debug\net6.0\Acm.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\source\repos\Acm\Acm\obj\Debug\net6.0\Acm.dll
+C:\Users\MSI-NB\source\repos\Acm\Acm\obj\Debug\net6.0\refint\Acm.dll
+C:\Users\MSI-NB\source\repos\Acm\Acm\obj\Debug\net6.0\Acm.pdb
+C:\Users\MSI-NB\source\repos\Acm\Acm\obj\Debug\net6.0\Acm.genruntimeconfig.cache
+C:\Users\MSI-NB\source\repos\Acm\Acm\obj\Debug\net6.0\ref\Acm.dll
